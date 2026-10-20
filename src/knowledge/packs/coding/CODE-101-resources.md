@@ -45,7 +45,7 @@ Read these to understand the philosophy behind the CODE-101 pack:
 
 - [Codecademy](https://www.codecademy.com/) — Step-by-step lessons with immediate feedback
 - [Khan Academy](https://www.khanacademy.org/computing) — Computer science lessons
-- [Trinket](https://trinket.io/) — Online Python and HTML/CSS editor (great for sharing projects)
+- [Coddy](https://coddy.tech/playground) — Online editor for Python, HTML/CSS and 30+ other languages, with embeddable editors (great for sharing projects)
 - [Replit](https://replit.com/) — Online IDE for many languages
 
 ### Challenges & Puzzles
